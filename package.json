@@ -1,0 +1,22 @@
+{
+  "name": "querycss",
+  "version": "0.0.1",
+  "description": "a lib to control css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "selector",
+    "query"
+  ],
+  "devDependencies": {
+    "underscore": "~1.6.0"
+  },
+  "author": "weikang.zhuwk@alibaba-inc.com",
+  "license": "BSD"
+}
+
+
+underscore

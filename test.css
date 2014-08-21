@@ -1,0 +1,59 @@
+.h2-ex {
+    font-size: 28px;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.table td{
+    word-break: break-all;
+}
+
+.table th{
+    background: #E8E8E8;
+}
+.toolbar{
+    
+}
+
+.error .label{
+    color:red;
+}
+
+
+
+.collect-tags-red{
+    a{
+        display: inline-block;
+        line-height: 20px;
+        border:1px solid #D7D7D7;
+        border-radius: 10px;
+        background:#F5F4F4;
+        padding:0 10px;
+        margin-right: 10px;
+        margin-bottom: 10px;
+    }
+    a:hover,.selected{
+        background-color: #E22C37;
+        color:#FFF;
+        border-color:#D41420;
+    }
+}
+
+
+.mate-recom .recom-tags{}
+.recom-tags .mate-tit{margin-bottom:15px;font-size:16px;font-weight:bold;color:#777;}
+.recom-tags .mate-keywords{margin-bottom:10px;}          
+.mate-keywords .mate-label{font-weight:bold;color:#777;margin-right:18px;}
+.mate-keywords a{display:inline-block;padding:2px 14px;margin-right:10px;background:#d3a589;font-weight:bold;color:#fff;border-radius:15px;margin-bottom: 10px;}
+.mate-keywords a:hover{color:#fff;}
+
+.mate-recom ul{overflow:hidden;*zoom:1;margin-left:-20px;}
+.mate-recom ul li{float:left;margin-left:19px;_display:inline;width:62px;}
+.mate-recom .recom-imgs{}
+.recom-imgs img{width:62px;height:62px;display: block;}
+.recom-imgs a{display:inline-block;width:62px;height:62px;position:relative;border-radius:5px;overflow:hidden;}
+.recom-imgs .recom-title{display:block;position:absolute;left:0;bottom:0;width:62px;
+    background:url(http://gtms01.alicdn.com/tps/i1/T1053dFeJgXXaaD1Dr-3-3.png) repeat;
+    background:rgba(51,51,51,0.3);height:22px;line-height:22px;text-align:center;color:#fff;}
+.recom-imgs .recom-img-price{font-weight:bold;color:#777;}
+.recom-imgs .recom-img-price em{font-weight:bold;color:#aaa;margin-left:4px;}
