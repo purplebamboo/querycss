@@ -11,12 +11,12 @@
     "selector",
     "query"
   ],
+  "dependencies":{
+    "underscore": "~1.6.0"
+  },
   "devDependencies": {
     "underscore": "~1.6.0"
   },
   "author": "weikang.zhuwk@alibaba-inc.com",
   "license": "BSD"
 }
-
-
-underscore
