@@ -17,6 +17,6 @@
   "devDependencies": {
     "underscore": "~1.6.0"
   },
-  "author": "weikang.zhuwk@alibaba-inc.com",
-  "license": "BSD"
+  "author": "xhzhuweikang@163.com",
+  "license": "MIT"
 }
